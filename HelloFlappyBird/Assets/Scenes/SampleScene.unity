@@ -578,7 +578,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   obstaclePrefabs:
   - {fileID: 1858891086762686706, guid: c0a456a9cfb97e141a23ed872637f271, type: 3}
-  obstacleInterval: 1
+  obstacleInterval: 4
   obstacleSpeed: 5
   obstacleOffsetX: 15
   obstacleOffsetY: {x: -4, y: 4}
